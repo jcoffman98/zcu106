@@ -1,0 +1,16 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
+| Date              : Thu Feb  6 11:13:06 2020
+| Host              : crystal-lnx running 64-bit Debian GNU/Linux 10 (buster)
+| Command           : report_bus_skew -warn_on_violation -file Base_Zynq_MPSoC_wrapper_bus_skew_routed.rpt -pb Base_Zynq_MPSoC_wrapper_bus_skew_routed.pb -rpx Base_Zynq_MPSoC_wrapper_bus_skew_routed.rpx
+| Design            : Base_Zynq_MPSoC_wrapper
+| Device            : xczu7ev-ffvc1156
+| Speed File        : -2  PRODUCTION 1.26 08-13-2019
+| Temperature Grade : E
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
